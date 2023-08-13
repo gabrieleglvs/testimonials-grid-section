@@ -90,3 +90,23 @@
     }
 
 }
+
+@media screen and (min-width: 1820px) {
+    .quote {
+        margin-left: 330px;
+    }
+
+    .depoimentos-grid {
+        width: 60vw;
+    }
+}
+
+@media screen and (min-width: 2080px) {
+    .quote {
+        margin-left: 330px;
+    }
+
+    .depoimentos-grid {
+        width: 50vw;
+    }
+}
